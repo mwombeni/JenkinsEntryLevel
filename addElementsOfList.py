@@ -14,3 +14,4 @@ result = convertedArray[0: len(convertedArray)-1]
 print("result: ", result)
 print("I love CI/CD pipelines")
 print("See you in other projects")
+print("The beauty is only skin deep")
