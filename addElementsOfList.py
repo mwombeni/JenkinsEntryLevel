@@ -12,3 +12,4 @@ for i in list:
 
 result = convertedArray[0: len(convertedArray)-1]
 print("result: ", result)
+print("I love CI/CD pipelines")
